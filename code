@@ -3,7 +3,7 @@ import pandas as pd
 import altair as alt
 
 # Load your dataset
-df = pd.read_csv("/Users/ismailguennoun/Desktop/Sample - Superstore.csv", encoding="ISO-8859-1")
+df = pd.read_csv("Sample - Superstore.csv", encoding="ISO-8859-1")
 
 
 # Preprocessing
